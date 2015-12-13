@@ -51,7 +51,7 @@ Gender
 
 For a community to be diverse, we should find different genders. All the genders.
 
-First of all, that implies that our community accepts that gender is not necessary binary, and everyone has the rigth to be addressed according to his/her desires. It's not only about thinking that gender should not matter. It matters for many people for different reasons. A diverse community rejoices with all points of view.
+First of all, that implies that our community accepts that gender is not necessary binary, and everyone has the right to be addressed according to his/her desires. It's not only about thinking that gender should not matter. It matters for many people for different reasons. A diverse community rejoices with all points of view.
 
 Secondly, representativity. A diverse community is glad and expecting diversity in the higher possitions. Decissions should be taken representing the group and we can only achieve it having representation in the whole hierarchy.
 
