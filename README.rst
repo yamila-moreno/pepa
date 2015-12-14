@@ -53,7 +53,7 @@ For a community to be diverse, we should find different genders. All the genders
 
 First of all, that implies that our community accepts that gender is not necessary binary, and everyone has the rigth to be addressed according to his/her desires. It's not only about thinking that gender should not matter. It matters for many people for different reasons. A diverse community rejoices with all points of view.
 
-Secondly, representativity. A diverse community is glad and expecting diversity in the higher possitions. Decissions should be taken representing the group and we can only achieve it having representation in the whole hierarchy.
+Secondly, representativity. A diverse community is glad and expecting diversity in the higher positions. Decisions should be taken representing the group and we can only achieve it having representation in the whole hierarchy.
 
 Sexual Orientation
 ==================
@@ -67,7 +67,7 @@ Age
 
 For a community to be diverse, we should find people of different ages.
 
-All ages, from children to elder people, the message should be: this *new* technology is for everyone. Even if it's thought for young people, we can make it more accesible to everybody. We belive that anyone can keep learning, and we can provide help and resources for them.
+All ages, from children to elder people, the message should be: this *new* technology is for everyone. Even if it's thought for young people, we can make it more accesible to everybody. We believe that anyone can keep learning, and we can provide help and resources for them.
 
 A diverse community also has in mind that people grow and sometimes have children. We can make easy for them to continue being part of the community, offering childcare when possible.
 
@@ -76,21 +76,21 @@ Ability
 
 For a community to be diverse, we should find people with functional diversity.
 
-Meaning that we care about being accesible for everyone: from impaired to people in wheel chair, everyone should feel welcome. We all use technology, but we just don't see it because it's deeply adapted to us: smartphones, keys, glasses... A diverse community takes in mind accesibility, and is resourceful helping others.
+Meaning that we care about being accesible for everyone: from impaired to people in wheel chair, everyone should feel welcome. We all use technology, but we just don't see it because it's deeply adapted to us: smartphones, keys, glasses... A diverse community takes in mind accessibility, and is resourceful helping others.
 
 Origin
 ======
 
 For a community to be diverse, we should find people from different origins.
 
-If we have neighbors from everywhere, we should find them in our Python community. Think about the social structures and the reasons for not finding inmigrants, for instance, in our community: it can be the access to the information, or it can be the result of sutile (or not sutile at all) discrimination based on origin.
+If we have neighbors from everywhere, we should find them in our Python community. Think about the social structures and the reasons for not finding immigrants, for instance, in our community: it can be the access to the information, or it can be the result of subtle (or not subtle at all) discrimination based on origin.
 
-Economy status
-==============
+Economic status
+===============
 
 For a community to be diverse, we should find different social/economic statuses.
 
-The mere existance of *social statuses* itself is an evidence of something going wrong. It's one of the most powerful ways to keep *statu quo* through nepotism or mere recommendation system. A symptom of a community to be quite good is if we don't know everyone, and we see new people coming into the group even if they don't know anyone. That means that the group is open and welcoming and that the group makes the effort to reach people outside the close circles.
+The mere existence of *social statuses* itself is an evidence of something going wrong. It's one of the most powerful ways to keep *statu quo* through nepotism or mere recommendation system. A symptom of a community to be quite good is if we don't know everyone, and we see new people coming into the group even if they don't know anyone. That means that the group is open and welcoming and that the group makes the effort to reach people outside the close circles.
 
 Access to Studies
 =================
@@ -104,7 +104,7 @@ Focus Inside the Technology
 
 For a community to be diverse, we should find different approaches for the community.
 
-All approaches. A diverse community shouldn't expect from anyone to be a programmer. There are many ways to contribute in a group, all of them important and makes us improve in different ways: programming of course, but also documenting, mentoring, energizing the community, creating a safe place, worring about the health and happiness of its members.
+All approaches. A diverse community shouldn't expect from anyone to be a programmer. There are many ways to contribute in a group, all of them important and makes us improve in different ways: programming of course, but also documenting, mentoring, energizing the community, creating a safe place, worrying about the health and happiness of its members.
 
 Other Interests in General
 ==========================
@@ -123,7 +123,7 @@ All of them. A diverse community doesn't discriminate anyone because his/her cho
 Hint
 ====
 
-There are different ways to know if we are part of a diverse community. Some of them are measuring the obvious otherness. But we can also think of how many times we feel unconfortable with a new insight, that makes us reconsider our position. And also, how many times we find ourselves with new unexpected interests.
+There are different ways to know if we are part of a diverse community. Some of them are measuring the obvious otherness. But we can also think of how many times we feel uncomfortable with a new insight, that makes us reconsider our position. And also, how many times we find ourselves with new unexpected interests.
 
 Bonus: pepa.py
 ==============
