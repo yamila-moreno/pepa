@@ -130,7 +130,7 @@ Bonus: pepa.py
 
 This document is meant as a starting point for self evaluation. As it can be difficult to think of all of these topics, we can find a script which implements the consistency with the purpose of this PEP. The *pepa.py* script is opensource and contributions are welcome.
 
-Source: http://github.com/yamila-moreno/pepa/pepa.py
+Source: https://github.com/yamila-moreno/pepa/blob/master/pepa.py
 
 Bonus: why this codename
 ========================
