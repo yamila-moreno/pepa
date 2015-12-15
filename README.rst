@@ -153,5 +153,12 @@ Source: http://github.com/yamila-moreno/pepa
 Authors
 =======
 
-Yamila Moreno (@yamila_moreno)
+Yamila Moreno (@yamila-moreno)
+
 Alejandro Guirao (@lekum)
+
+TankorSmash (@tankorsmash)
+
+Juan Luis Cano Rodríguez (@Juanlu001)
+ 
+Iacopo Spalletti (@yakky)
