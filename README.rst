@@ -150,6 +150,13 @@ This document has been placed in the public domain.
 
 Source: http://github.com/yamila-moreno/pepa
 
+Contributions
+=============
+
+Contributions are more than welcome; please, use `pull requests` system of Github to propose changes. Include in your PR your name added to this Authors list.
+
+If you're not familiar with `pull requests` system, open an `issue` and I'll answer as soon as possible.
+
 Authors
 =======
 
