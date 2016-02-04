@@ -8,6 +8,10 @@ Translations
 
 Due to the interest that the PEPA caused, we wanted to have this document translated to as much languages as possible. We use the Transifex tool to keep the versions translated and synchronized.
 
+Currently, these languages are available:
+
+* en (english)
+
 How to contribute
 =================
 
