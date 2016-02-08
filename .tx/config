@@ -3,5 +3,6 @@ host = https://www.transifex.com
 
 [pep-a.pepatxt]
 source_file = en/pepa.txt
+file_filter = <lang>/pepa.txt
 source_lang = en
 type = TEXT
