@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[pep-a.pepatxt]
+source_file = en/pepa.txt
+source_lang = en
+type = TEXT
