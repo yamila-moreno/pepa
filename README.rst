@@ -10,7 +10,7 @@ Due to the interest that the PEPA caused, we wanted to have this document transl
 
 Currently, these languages are available:
 
-* en (english)
+.. image:: https://www.transifex.com/projects/p/pep-a/resource/pepatxt/chart/image_png
 
 How to contribute
 =================
