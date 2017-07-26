@@ -8,9 +8,9 @@ Translations
 
 Due to the interest that the PEPA caused, we wanted to have this document translated to as much languages as possible. We use the Transifex tool to keep the versions translated and synchronized.
 
-Currently, these languages are available:
+You can start translating here:
 
-.. image:: https://www.transifex.com/projects/p/pep-a/resource/pepatxt/chart/image_png
+https://www.transifex.com/pepa-1/pep-a/
 
 How to contribute
 =================
