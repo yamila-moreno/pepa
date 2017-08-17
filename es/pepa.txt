@@ -1,164 +1,164 @@
 Introducción
 ============
 
-This document gives conventions for Python (no matter if it's Python2 or Python3) communities.
+Este documento ofrece convenciones para las comunidades de Python (no importa que sean Python2 o Python3)
 
-This conventions can and should evolve as the community does. Sometimes, this convention may be quite general, and doesn't fit the quintessence of your community. In those cases, you should adapt the conventions. The only restriction, when diverging from the letter, should be to keep the spirit and the purpose.
+Estas convenciones pueden evolucionar y de hecho conviene que evolucionen según lo hace la comunida. A veces, esta convención puede resultar demasiado general, y no se ajusta a la quintaesencia de tu comunidad. En estos casos, deberías adaptar las convenciones. La única restricción, al divergir de "la letra", sería mantenerse en el espíritu y el propósito.
 
-The purpose of this document is to give a way to consider and measure diversity in your community. It's not meant to blame, but to inspire.
+El propósito de este documento es ofrecer una forma de analizar y medir la diversidad en tu comunidad. No busca culpar a nadie, sino inspirar.
 
-Reconocimiento
+Reconocimientos
 ===============
 
-This document is shamelessly based on the PEP-0008 document. Thanks for the structure and for the inspiration. Also, big thanks to the people who helped with translation and proper wording for the first release. Everyone who has contributed is listed in the *Authors* section.
+Este documento está descaradamente basado en el documento PEP-0008. Gracias por la estructura y por la inspiración. También, gran agradecimiento a la gente que ayudó con la traducción y la redacción adecuada para el primer lanzamiento. Todos los que han contribuido se enumeran en la sección *Autores*.
 
-A Diverse Community is Key for Great Minds
+Una comunidad diversificada es la llave para grandes mentes
 ==========================================
 
-One of the most important insights is that diversity matters. The guidelines provided here are intended to improve the diversity of your community. As PEP 20 says, "Diversity counts". Well, is more like "Readability counts", but you get the point.
+Una de las ideas más importantes es que la diversidad importa. Las directrices que se proporcionan aquí tienen por objeto mejorar la diversidad de su comunidad. Como dice PEP 20, "La diversidad cuenta". Bueno, es más como "Legibilidad cuenta", pero usted entiende el punto.
 
-Diversity in our Python community is important because without it, the community is not really part of the society, is not the *pythonic point of view* of the society, but an elitist group unaware of the rest.
+La diversidad en nuestra comunidad de Python es imporante, porque sin ella, la comunidad no es realmente parte de la sociedad, no es el *punto de vista pythónico* de la sociedad, pero un grupo elitista no se preocupa por el resto.
 
-A diversity guide is about always reconsidering the *statu quo*. Reconsidering the *statu quo* is important. Reconsidering our environment is more important. Reconsidering our own position is most important.
+Una guía de diversidad consiste en reconsiderar siempre el *statu quo*. Reconsiderar el *statu quo* es importante. Reconsiderar nuestro entorno es más importante. Reconsiderar nuestra posición es muy importante.
 
-But most importantly: nobody expects from us to be perfect; sometimes, we just don't know. When in doubt, we need to remind the reconsidering part and use our best judgment. Look at other communities and how they deal with each specific issue and decide what looks best or has a clearer approach. And don't hesitate to ask!
+Pero lo más importante: nadie espera que seamos perfectos; A veces, simplemente no lo sabemos. En caso de duda, necesitamos recordar la parte de reconsideración y usar nuestro mejor juicio. Mira a otras comunidades y cómo se ocupan de cada tema específico y decidir lo que parece mejor o tiene un enfoque más claro. Y no dude en preguntar!
 
-In particular: be open minded and welcoming.
+Principalmente: se bienvenido y ten la mente abierta.
 
-Some other good reasons to improve diversity is because diverse communities:
+Algunas otras buenas razones para mejorar la diversidad es porque las comunidades diversas:
 
-* build better products
-* help to make the *breachs* smaller
-* are more creative
-* are better ready to adapt to the world
-* are happier
+* crean mejores productos
+* ayuda a reducir las *brechas*.
+* son más creativas
+* están mejor preparadas para adaptarse al mundo
+* son más felices
 
-If this PEP should defend one reason over the rest, this could be: diversity for diversity.
+Si esta PEP debe defender un motivo por sobre el resto, esta podría ser: diversidad para la diversidad.
 
-Meritocracy is broken
-=====================
+La meritocracia está rota
+=======================
 
-It is, no matter how painful we feel about it. Most of our achievements start with a privilege. If we think that we have achieved what we deserve because of our hard work, we're just avoiding to watch and accept all the privilege that helped us in the past and all the privilege that is currently helping us.
+Lo está, no importa que tan doloroso nos resulte esto. La mayor parte de nuestros logros inician con un privilegio. Si pensamos que nosotros hemos ganado lo que deseamos, gracias a nuestro trabajo duro, estamos solamente evitando observar y aceptar todos los privilegios que nos ayudaron en el pasado y todos los privilegios que actualmente nos están ayudando.
 
-When we recognise how broken meritocracy is, it's clear that it doesn't work as system to get the best, but to maintain the *statu quo*.
+Cuando reconocemos cuan rota está la meritocracia, queda claro que no funciona como un sistema para dar lo mejor, pero si para mantener el *status quo*.
 
-So if we really want to end the *statu quo* to get a diverse community, we need to try different approaches to reach people.
+Entonces si realmente queremeos terminar con el *status quo* para obtener una comunidad diversa, necesitamos probar diferentes aproximaciones para alcanzar a las personas.
 
-This document goes through different (and classic) axes to think about diversity. Any contribution will be more than welcome.
+Este documento va a través de diferentes (y clásicos) ejes para pensar sobre la diversidad. Cualquier contribución será mas que bienvenida.
 
 Género
 ======
 
-For a community to be diverse, we should find different genders. All the genders.
+Para que una comunidad sea diversa, debemos encontrar diferentes géneros. Todos los géneros.
 
-First of all, that implies that our community accepts that gender is not necessary binary, and everyone has the right to be addressed according to his/her desires. It's not only about thinking that gender should not matter. It matters for many people for different reasons. A diverse community rejoices with all points of view.
+En primer lugar, eso implica que nuestra comunidad acepta que el género no es necesariamente binario, y todo el mundo tiene derecho a ser dirigido de acuerdo a sus deseos. No se trata sólo de pensar que el género no debe importar. Importa para muchas personas por diferentes razones. Una comunidad diversa se regocija con todos los puntos de vista.
 
-Secondly, representativity. A diverse community is glad and expecting diversity in the higher positions. Decisions should be taken representing the group and we can only achieve it having representation in the whole hierarchy.
+En segundo lugar, la representatividad. Una comunidad diversa se alegra y espera diversidad en las posiciones más altas. Deben tomarse decisiones que representen al grupo y sólo podemos lograrlo teniendo representación en toda la jerarquía.
 
 Orientación Sexual
 ==================
 
-For a community to be diverse, we need to be sure that nobody is being rejected because of bigot behaviours.
+Para que una comunidad sea diversa, necesitamos asegurar que nadie sea excluido por sus compartamiéntos fanáticos.
 
-Sexual orientation is not obvious to know, nor necessary; but a good point is to have a place where people openly rejects homophobia in all its manifestations. A place where being gay or lesbian doesn't mean to be pointed out.
+La orientación sexual no es obvia de saber, ni es necesaria; Pero un buen punto es tener un lugar donde la gente abiertamente rechaza la homofobia en todas sus manifestaciones. Un lugar donde ser gay o lesbiana no significa ser señalado.
 
 Edad
-===
+====
 
-For a community to be diverse, we should find people of different ages.
+Para que una comunidad sea diversa, debemos encontrar personas de distintas edades.
 
-All ages, from children to elder people, the message should be: this *new* technology is for everyone. Even if it's thought for young people, we can make it more accesible to everybody. We believe that anyone can keep learning, and we can provide help and resources for them.
+Todas las edades, desde niños hasta personas mayores, el mensaje deberìa ser: esta *nueva* tecnología es para todos. Incluso si está pensada para gente jóven, podemos hacerla accesible para cualquiera. Creemos que cualquiera puede seguir aprendiendo, y nosotros podemos proveer ayuda y recursos para ellos.
 
-A diverse community also has in mind that people grow and sometimes have children. We can make easy for them to continue being part of the community, offering childcare when possible.
+Una comunidad diversa también tiene en mente que las personas crecen y algunas veces tienen hijos. Podemos hacer fácil para ellos también formar parte de la comunidad, ofreciendo cuidado para los niños de ser posible.
 
 Capacidad
-=======
+=========
 
-For a community to be diverse, we should find people with functional diversity.
+Para que una comunidad sea diversa, necesitamos encontrar personas con diversidad funcional.
 
-Meaning that we care about being accesible for everyone: from impaired to people in wheel chair, everyone should feel welcome. We all use technology, but we just don't see it because it's deeply adapted to us: smartphones, keys, glasses... A diverse community takes in mind accessibility, and is resourceful helping others.
+Lo que significa que nos importa ser accesible para todos: de personas con discapacidad a las personas en silla de ruedas, todo el mundo debe sentirse bienvenido. Todos usamos la tecnología, pero no la vemos porque está profundamente adaptada a nosotros: teléfonos inteligentes, llaves, gafas ... Una comunidad diversa tiene en cuenta la accesibilidad y es ingeniosa para ayudar a los demás.
 
 Origen
 ======
 
-For a community to be diverse, we should find people from different origins.
+Para que una comunidad sea diversa, necesitamos encontrar personas de diferentes orígenes
 
-If we have neighbors from everywhere, we should find them in our Python community. Think about the social structures and the reasons for not finding immigrants, for instance, in our community: it can be the access to the information, or it can be the result of subtle (or not subtle at all) discrimination based on origin.
+Si tenemos vecinos de todas partes, deberíamos encontrarlos en nuestra comunidad de Python. Piense en las estructuras sociales y las razones para no encontrar inmigrantes, por ejemplo, en nuestra comunidad: puede ser el acceso a la información, o puede ser el resultado de una discriminación sutil (o no sutil) basada en el origen.
 
-Economic status
+Estado económico
 ===============
 
-For a community to be diverse, we should find different social/economic statuses.
+Para que una comunidad sea diversa, debemos encontrar diferentes status socio/económicos.
 
-The mere existence of *social statuses* itself is an evidence of something going wrong. It's one of the most powerful ways to keep *statu quo* through nepotism or mere recommendation system. A symptom of a community to be quite good is if we don't know everyone, and we see new people coming into the group even if they don't know anyone. That means that the group is open and welcoming and that the group makes the effort to reach people outside the close circles.
+La mera existencia de *status social* es una evidencia de que algo va mal. Es una de las maneras más poderosas de mantener *statu quo* a través del sistema de nepotismo o mera recomendación. Un síntoma de una comunidad para ser bastante buena es si no conocemos a todos, y vemos a nuevas personas entrar en el grupo, incluso si no conocen a nadie. Eso significa que el grupo es abierto y acogedor y que el grupo hace el esfuerzo de llegar a la gente fuera de los círculos más cercanos.
 
-Access to Studies
+Acceso a estudios
 =================
 
-For a community to be diverse, we should find different studies levels.
+Para que una comunidad sea diversa, debemos encontrar diferentes niveles de estudios.
 
-All levels. Having a university degree shouldn't be a requirement to be part of a technological group. A diverse community doesn't expect knowledge from newcomers; on the contrary, a diverse community offers knowledge to them.
+Todo los niveles. Tener un grado universitario no debería ser un requerimiento para ser parte de un grupo tecnológico. Una comunidad diversificada no espera conocimientos de los nuevos participantes, todo lo contrario, una comunidad diversificada ofrece conocimiento a ellos.
 
-Focus Inside the Technology
+Enfocados en el interior de la tecnología
 ===========================
 
-For a community to be diverse, we should find different approaches for the community.
+Para que una comunidad sea diversa, debemos encontrar diferentes puntos de vistas para la comunidad.
 
-All approaches. A diverse community shouldn't expect from anyone to be a programmer. There are many ways to contribute in a group, all of them important and makes us improve in different ways: programming of course, but also documenting, mentoring, energizing the community, creating a safe place, worrying about the health and happiness of its members.
+Todos los puntos de vistas. Una comunidad diversa no debe esperar que todos sean programadores. Hay muchas formas de contribuir en un grupo, todas estas son importantes y nos hacen mejorar en diferentes formas: cursos de programación, pero también documentación, mentoreo, activando la comunidad, creando un lugar seguro, preocupádose por la salud y el bienestar de sus miembros.
 
-Other Interests in General
+Otros Intereses en General
 ==========================
 
-For a community to be diverse, we should find different *other insterests*.
+Para una comunidad diversa, debemos encontrar los diferentes *otros intereses*.
 
-All of them. A diverse community should not expect any particular interest, but accept and welcome all of them. People is diverse, people like different things, and this other interests make them better and happier and all of us could always learn something new. Embrace the otherness.
+Todos ellos. Una comunidad diversa no debe esperar ningún interés particular, pero aceptar y dar la bienvenida a todos ellos. La gente es diversa, a la gente le gusta cosas diferentes, y estes otros intereses los hacen mejores y más felices y todos nosotros siempre podemos aprender algo nuevo. Abrace la alteridad.
 
-Other Interests in Technology
+Otros intereses en tecnología
 =============================
 
-For a community to be diverse, we should find different *other tech insterests*.
+Para que una comunidad sea diversa, deberíamos encontrar diferentes *intereses tech*.
 
-All of them. A diverse community doesn't discriminate anyone because his/her choice of other technologies. A diverse Python community is more focused on teaching, learning and enjoying Python than ranting against regexp(*any other programming language*). Different approaches enlarge our own vision. If not, just don't be an asshole.
+Todos ellos. Una comunidad diversa no discrimina a nadie debido a su elección de otras tecnologías. Una diversa comunidad de Python está más enfocada en enseñar, aprender y disfrutar de Python que discutir contra regexp (*cualquier otro lenguaje de programación*). Diferentes enfoques amplían nuestra propia visión. Si no, simplemente no seas un idiota.
 
-Hint
+Ayuda
 ====
 
-There are different ways to know if we are part of a diverse community. Some of them are measuring the obvious otherness. But we can also think of how many times we feel uncomfortable with a new insight, that makes us reconsider our position. And also, how many times we find ourselves with new unexpected interests.
+Hay diferentes maneras de saber si somos parte de una comunidad diversa. Algunos de ellos miden la obvia alteridad. Pero también podemos pensar en cuántas veces nos sentimos incómodos con una nueva visión, que nos hace reconsiderar nuestra posición. Y también, cuántas veces nos encontramos con nuevos intereses inesperados.
 
 Bonus: pepa.py
 ==============
 
-This document is meant as a starting point for self evaluation. As it can be difficult to think of all of these topics, we can find a script which implements the consistency with the purpose of this PEP. The *pepa.py* script is opensource and contributions are welcome.
+Este documento pretende ser un punto de partida para la autoevaluación. Como puede ser difícil pensar en todos estos temas, podemos encontrar un script que implementa la consistencia con el propósito de este PEP. El script *pepa.py  es opensource y las contribuciones son bienvenidas.
 
-Source: https://github.com/yamila-moreno/pepa/blob/master/pepa.py
+Código: https://github.com/yamila-moreno/pepa/blob/master/pepa.py
 
-Bonus: why this codename
+Bonus: por qué este codename
 ========================
 
-The codename is a word play. On one hand it comes from the Python Enhancement Proposals, aka, PEPs.
-On the other hand, as this document was presented in III Pycon Spain, it references a historical moment in Spain: in 1812 was presented the first Contitution in Spain, the first time ever talking about the rights of *citizens*. This Constitution was commonly known as *Pepa*.
+El nombre en clave elegido es un juego de palabras. Por un lado proviene de las propuestas de mejora de Python, más conocido como, PEPs.
+Por otra parte, ya que este documento se presentó en la III Pycon España, hace referencia a un momento histórico en España: en 1812 se presentó la primera Constitución en España, por primera vez hablando de los derechos de los ciudadanos *. Esta Constitución fue comúnmente conocida como *Pepa*.
 
 Referencias
-==========
+===========
 
 PEP-8: https://www.python.org/dev/peps/pep-0008/
 
 Copyright
 =========
 
-This document has been placed in the public domain.
+Este documento es de dominio público.
 
 Source: http://github.com/yamila-moreno/pepa
 
 Contribuciones
-=============
+==============
 
-Contributions are more than welcome; please, use `pull requests` system of Github to propose changes. Include in your PR your name added to this Authors list.
+Las contribuciones son bienvenidas; por favor, utiliza los el sistema de 'pull requests' de GitHub para proponer cambios. Incluye en tu PR tu nombre añadido a esta Lista de Autores.
 
-If you're not familiar with `pull requests` system, open an `issue` and I'll answer as soon as possible.
+SI no estás familiarizado con el sistema de `pull requests`, abre una `issue` y la responderé tan pronto como me sea posible.
 
 Autores
-=======
+=========
 
 Yamila Moreno (@yamila-moreno)
 
@@ -169,3 +169,9 @@ TankorSmash (@tankorsmash)
 Juan Luis Cano Rodríguez (@Juanlu001)
 
 Iacopo Spalletti (@yakky)
+
+João Felipe N. Pimentel (@JoaoFelipe)
+
+Ivan Ogasawara (@xmnlab)
+
+Nestor Navarro (@nestornav)
